@@ -1,0 +1,9 @@
+{
+  "name": "hakon-bot",
+  "version": "0.1.0",
+  "description": "Slack bot for awkward quotes and other monkey business",
+  "main": "index.js",
+  "repository": "https://github.com/hawkaa/hakon-bot",
+  "author": "Håkon Åmdal",
+  "license": "MIT"
+}
